@@ -9,7 +9,7 @@ import joblib
 # -----------------------------
 # Load trained model
 # -----------------------------
-model = joblib.load("models/titanic_best_model.pkl")
+model = joblib.load("titanic_best_model.pkl")
 
 # -----------------------------
 # Page configuration
